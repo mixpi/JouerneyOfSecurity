@@ -1,5 +1,4 @@
-# JouerneyOfXCTF
+# JouerneyOfSecurity
 ## 项目介绍
-记录自己的网络安全之路，记录值得玩味的XCTF题目，对必要的漏洞进行复现。也会记录下一些工具的使用。
 ## 目录
 ## 参考资料
